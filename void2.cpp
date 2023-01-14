@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+//membuat fungsi hello()
+void hello(){
+	cout <<"Hello Selamat Datang !\n";
+}
+
+int main(){
+	//memanggil fungsi hello()
+	hello();
+	hello();
+	hello();
+	hello();
+	hello();
+}
